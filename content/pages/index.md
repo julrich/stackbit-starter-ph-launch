@@ -9,7 +9,7 @@ sections:
     headline:
       large: true
       sub: 'So, you''re almost done.'
-      text: "**Well done** \U0001F44F you've just setup your first project."
+      text: "**Well done** \U0001F44F you've just setup your first project. Let's go!! \U0001F680"
     content:
       tileWidth: default
       width: wide
